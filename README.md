@@ -1,6 +1,6 @@
 # WordPulse 📊 — Full-Stack Typing Performance Analytics Engine
 
-SpeedTyper Pro is a full-stack production-ready web application built using the MERN stack. The platform decouples dynamic typing simulation mechanics from database tracking to calculate Words Per Minute (WPM) and input precision analytics in real-time. User history and performance telemetry metrics are securely synchronized and persisted via a centralized Express API layer to a MongoDB database.
+WordPulse is a full-stack production-ready web application built using the MERN stack. The platform decouples dynamic typing simulation mechanics from database tracking to calculate Words Per Minute (WPM) and input precision analytics in real-time. User history and performance telemetry metrics are securely synchronized and persisted via a centralized Express API layer to a MongoDB database.
 
 ---
 
