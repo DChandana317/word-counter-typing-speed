@@ -39,7 +39,7 @@ Follow these deployment instructions to spin up the local environment sandbox.
 
 ### 1. Repository Clonation & Preparation
 ```bash
-git clone https://https://github.com/DChandana317/word-counter-typing-speed
+git clone https://github.com/DChandana317/word-counter-typing-speed
 cd WORD_COUNTER-TYPING_SPEED
 ```
 
