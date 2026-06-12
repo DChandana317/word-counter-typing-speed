@@ -1,4 +1,4 @@
-# ⚡ SpeedTyper Pro — Full-Stack Typing Performance Analytics Engine
+# WordPulse 📊 — Full-Stack Typing Performance Analytics Engine
 
 SpeedTyper Pro is a full-stack production-ready web application built using the MERN stack. The platform decouples dynamic typing simulation mechanics from database tracking to calculate Words Per Minute (WPM) and input precision analytics in real-time. User history and performance telemetry metrics are securely synchronized and persisted via a centralized Express API layer to a MongoDB database.
 
@@ -39,7 +39,7 @@ Follow these deployment instructions to spin up the local environment sandbox.
 
 ### 1. Repository Clonation & Preparation
 ```bash
-git clone https://github.com
+git clone https://https://github.com/DChandana317/word-counter-typing-speed
 cd WORD_COUNTER-TYPING_SPEED
 ```
 
